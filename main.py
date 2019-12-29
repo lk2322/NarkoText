@@ -13,3 +13,4 @@ else:
             print(i.capitalize(), end='')
         else:
             print(i, end='')
+input()
